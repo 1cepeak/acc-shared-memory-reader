@@ -1,0 +1,3 @@
+onlyBuiltDependencies:
+  - '@fynnix/node-easy-ipc'
+  - esbuild

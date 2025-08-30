@@ -69,16 +69,16 @@
     "vite": "^7.1.2",
     "vite-plugin-dts": "^4.5.4"
   },
+  "dependencies": {
+    "@fynnix/node-easy-ipc": "^1.1.4",
+    "binutils": "^0.1.0",
+    "utf8-bytes": "^0.0.1"
+  },
   "engines": {
     "node": ">=22.0.0"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public"
-  },
-  "dependencies": {
-    "@fynnix/node-easy-ipc": "^1.1.4",
-    "binutils": "^0.1.0",
-    "utf8-bytes": "^0.0.1"
   }
 }

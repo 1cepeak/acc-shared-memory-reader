@@ -1,7 +1,7 @@
 {
   "name": "@icepeak/acc-shared-memory-reader",
   "version": "1.0.0",
-  "description": "Node.js IPC Assetto Corsa Competizione shared memory reader",
+  "description": "Assetto Corsa Competizione shared memory reader (IPC) for Node.js",
   "keywords": [
     "assetto corsa",
     "acc",
